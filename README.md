@@ -1,9 +1,9 @@
 # mybatis_generator
-The plugin for auto generating code for mybatis
+Demo project for mybatis generator plugin
 
-- install mybatis generator plug for Eclipse
+- install mybatis generator plugin for Eclipse
 - edit a generatorConfig.xml file
 - right click on generatorConfig.xml and select the menu 'mybatis generator'
-- copy the generated files to your main project
+- copy the generated files to your project
 
 
