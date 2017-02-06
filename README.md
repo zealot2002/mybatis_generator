@@ -1,5 +1,5 @@
 # mybatis_generator
-The plug for auto generating code for mybatis
+The plugin for auto generating code for mybatis
 
 - install mybatis generator plug for Eclipse
 - edit a generatorConfig.xml file
